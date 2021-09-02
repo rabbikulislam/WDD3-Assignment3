@@ -44,9 +44,12 @@ header{
 }
 .menubar ul li a:hover{
     color:#2B92A8;
+    padding:17px;
 }
+
+
 .menubar ul li a:focus{
-    color:#5addf9;
+    color:rgb(0, 124, 128);
 }
 .inputsearch{
     width: 250px;
@@ -80,7 +83,7 @@ header{
     height: 120px;
     margin-top: 30px;
  
-    background: #eaf2ea;
+    background: #AAE3E8;
 }
 .small3{
     font-size: 35px;
@@ -228,7 +231,7 @@ header{
 }
 .sidebar1{
     height:40px;
-    border-bottom:1px solid black;
+    
     background:#EEEEEE;
 }
 .sidebar1 small{
@@ -530,7 +533,7 @@ ul.supporturl {
 .aboutdiv2{
     height: 455px;
     border: 1px solid #EEEEEE;
-    marign-top: 8px;
+    
     margin-top: 20px;
 }
 .aboutmission1{
@@ -545,3 +548,155 @@ ul.supporturl {
 }
 
 /*about us area end*/
+
+/*blog araa start*/
+.blog{
+   width: 68%;
+   height: 1265px;
+    margin-top: 20px;
+    float: left;
+    
+}
+
+
+
+.blogarea{
+    width: 96%;
+    height: 1285px;
+    margin: 2%;
+    
+}
+.blog1{
+    height:320px;
+    border: 1px solid #EEEEEE;
+}
+.blog2{
+    height:415px;
+    border: 1px solid #EEEEEE;
+    margin-top: 20px;
+}
+.blog3{
+    height: 485px;
+    border: 1px solid #EEEEEE;
+    margin-top: 20px;
+}
+.blogentry{
+    height:40px;
+    
+    background:#EEEEEE;
+}
+.blogentry small{
+    font-size: 30px;
+    margin-left:10px;
+}
+.blogp1{
+    margin: 0px 0px 0px 10px;
+    padding: 3px;
+    line-height: 1.5;
+    color: #7d6e6e;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.blogp1 a{
+    color: #7d6e6e;
+    font-size: 15px;
+}
+.response{
+    height:40px;
+    
+    background:#EEEEEE;
+}
+.response small{
+    font-size:30px;
+    margin-left:10px;
+}
+.response1{
+   
+    height:100px;
+    margin-top:10px;
+}
+.admin1 {
+    margin: 10px 0px 0px 10px;
+    padding: 3px;
+    line-height: 1.5;
+    color: #7d6e6e;
+    font-size: 15px;
+}
+.admin1 a{
+    color: #7d6e6e;
+    font-size: 15px;
+}
+.admin2{
+    margin: 10px 0px 0px 10px;
+    padding: 3px;
+    line-height: 1.5;
+    color: #7d6e6e;
+    font-size: 15px;
+}
+.response2{
+   
+    height:140px;
+    margin-top:10px;
+}
+.leave1{
+    height:40px;
+    background:#EEEEEE;
+}
+.leave1 small{
+    font-size:30px;
+    margin-left:10px;
+}
+.label{
+    display:block;
+   
+}
+.leaveinput{
+    padding:20px 0px 0px 15px;
+}
+.leaveinput input{
+    width:500px;
+    padding:8px 10px;
+}
+.leaveinput textarea{
+    width: 520px;
+    height: 130px;
+}
+.label{
+    color: #7d6e6e;
+    font-size: 15px;
+}
+/*blog area end*/
+
+/*contact area start*/
+.contacts{
+    width:68%;
+    height: 610px;
+    margin-top: 20px;
+    float:left;
+    
+}
+.contact1{
+    height:100px;
+    border: 1px solid #EEEEEE;
+}
+.contact2{
+    height: 485px;
+    border: 1px solid #EEEEEE;
+    margin-top: 20px;
+}
+.contactmail{
+    height:40px;
+    background:#EEEEEE;
+}
+.contactmail small{
+    font-size:30px;
+    margin-left:10px;
+}
+.contact1 p{
+    margin: 0px 0px 0px 10px;
+    padding: 3px;
+    line-height: 1.5;
+    color: #7d6e6e;
+    font-size: 15px;
+}
+/*contact area end*/
