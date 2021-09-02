@@ -120,6 +120,7 @@ header{
     height:900px;
     margin-top: 20px;
     float:left;
+    
 }
 .sectiondiv4{
     width:30%;
@@ -409,3 +410,138 @@ footer{
     color: #b8b0b0;
 }
 /*footer area end*/
+/*support area start*/
+.supportdiv1{
+    width: 96%;
+    height: 610px;
+    margin: 2%;
+}
+.supportdiv3{
+    width: 68%;
+    height: 610px;
+    margin-top: 20px;
+    float: left;
+    border: 1px solid #EEEEEE;
+}
+.supportdiv4{
+    height: 610px;
+  
+}
+.supporturl li{
+    font-size: 15px;
+    margin-top:15px;
+    color: #7d6e6e;
+}
+.supporturl li a{
+    color: #7d6e6e;
+    font-size: 15px;
+     font-weight: bold;
+     text-decoration:none;
+}
+.supporturl li a:hover{
+    text-decoration:underline;
+}
+ul.supporturl {
+    margin-left: -10px;
+}
+.supportsidebar{
+    width: 30%;
+    height: 610px;
+    margin-top: 20px;
+    float: right;
+   
+}
+/*support area end/
+/*footerbelow area*/
+
+.footerbelow{
+   
+    height: 340px;
+}
+.footerbelow1{
+    width:30%;
+    height:85px;
+    float:left;
+    
+    margin-left:5px;
+}
+.footerbelow2{
+    width:37%;
+    height:85px;
+    float:left;
+    
+    margin-left:5px;
+}
+.footerbelow3{
+    width:30%;
+    height:85px;
+    float:left;
+    
+    margin-left:5px;
+}
+.fp{
+    padding: 4px 0;
+    line-height: normal;
+    color: #FFF;
+    font-size: 13px;
+    
+    margin-left: 24px;
+}
+.pf{
+    margin-top: 60px;
+    color: #b8b0b0;
+}
+.pf a{
+    color: #b8b0b0;
+}
+.footerlink{
+    color:#FFf;
+}
+.footerlink:hover{
+    text-decoration: none;
+}
+/*footerbelow area*/
+/*about us area start*/
+.aboutourmission{
+    width: 96%;
+    height: 700px;
+    margin: 2%;
+}
+.aboutcompany{
+    height:40px;
+    
+    background:#EEEEEE;
+}
+.aboutcompany small{
+    font-size:30px;
+    margin-left:10px;
+}
+.aboutdiv{
+    width: 68%;
+    height: 680px;
+    margin-top: 20px;
+    float: left;
+  
+}
+.aboutdiv1{
+    height:220px;
+    border: 1px solid #EEEEEE;
+}
+.aboutdiv2{
+    height: 455px;
+    border: 1px solid #EEEEEE;
+    marign-top: 8px;
+    margin-top: 20px;
+}
+.aboutmission1{
+    color: #7d6e6e;
+    font-size: 15px;margin-left:10px;
+    font-weight: bold;line-height:1.5;
+}
+.aboutmission2{
+    color: #7d6e6e;
+    font-size: 15px;margin-left:10px;line-height:1.5;
+
+}
+
+/*about us area end*/
